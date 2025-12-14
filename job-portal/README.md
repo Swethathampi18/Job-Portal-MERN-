@@ -76,15 +76,3 @@ The API routes are implemented in the backend `routes` folder (e.g., auth, jobs,
 - **Backend**: `npm run dev` — development server with `nodemon`; `npm start` — production start
 - **Frontend**: `npm start` — runs the React development server; `npm run build` — builds production assets
 
-**Notes & Security**
-
-- Keep secrets and keys out of source control. Add `.env` to `.gitignore` if not already present.
-- The backend uses JWT for authentication — protect your `JWT_SECRET` and rotate it periodically.
-
-**Contributing**
-
-- Fork the repo, create a feature branch, implement changes, add tests if applicable, and open a pull request with a clear description.
-
-**Contact**
-
-- If you have questions or want help running the project locally, open an issue or contact the maintainer.
