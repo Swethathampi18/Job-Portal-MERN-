@@ -1,5 +1,4 @@
 Job Portal (MERN)
-Description
 
 This is a full-stack Job Portal application built with the MERN stack (MongoDB, Express, React, Node). It supports recruiters posting jobs, job seekers viewing and applying to jobs, and authentication for users. The project is split into two parts: a backend API (Express + MongoDB) and a frontend single-page app (React).
 
